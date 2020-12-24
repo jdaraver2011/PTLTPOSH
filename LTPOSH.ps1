@@ -1,3 +1,4 @@
+<#
 .SYNOPSIS
     This is a PowerShell Module for LabTech.
     labtechconsulting.com
